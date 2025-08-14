@@ -5,8 +5,8 @@ API Flask pour prédictions de machine learning avec données temporelles et mé
 ## Installation
 
 ```bash
-git clone https://github.com/username/ml-prediction-api.git
-cd ml-prediction-api
+git clone https://github.com/Meruem2796/ml_prediction_flask.git
+cd ml_prediction_flask
 pip install -r requirements.txt
 python train_model.py
 python app.py
